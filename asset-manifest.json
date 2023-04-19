@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fad6587e.css",
-    "main.js": "./static/js/main.22a5c089.js",
+    "main.css": "./static/css/main.c49578a9.css",
+    "main.js": "./static/js/main.2cb08ce9.js",
     "static/media/Será Que Vale A Pena Oferecer Os Cartões Private Label Cartão De Marca Própria BrasilCard_.mp4": "./static/media/Será Que Vale A Pena Oferecer Os Cartões Private Label Cartão De Marca Própria BrasilCard_.9743faeef39200109695.mp4",
     "static/media/Como Aumentar as Vendas Com um Cartao de Marca Própria, Cartão Private Label Para Empresas.mp4": "./static/media/Como Aumentar as Vendas Com um Cartao de Marca Própria, Cartão Private Label Para Empresas.830bf425f1d8f98bab60.mp4",
     "static/media/BRASIL CARD - O cartão sem complicação..mp4": "./static/media/BRASIL CARD - O cartão sem complicação..0c27e49598593fb4e1c7.mp4",
@@ -24,11 +24,11 @@
     "static/media/s4.jpg": "./static/media/s4.a565b7cdda67e3185eb4.jpg",
     "static/media/logo.png": "./static/media/logo.40fe2205d4d2b78a462a.png",
     "index.html": "./index.html",
-    "main.fad6587e.css.map": "./static/css/main.fad6587e.css.map",
-    "main.22a5c089.js.map": "./static/js/main.22a5c089.js.map"
+    "main.c49578a9.css.map": "./static/css/main.c49578a9.css.map",
+    "main.2cb08ce9.js.map": "./static/js/main.2cb08ce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fad6587e.css",
-    "static/js/main.22a5c089.js"
+    "static/css/main.c49578a9.css",
+    "static/js/main.2cb08ce9.js"
   ]
 }
