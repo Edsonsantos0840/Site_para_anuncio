@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.c49578a9.css",
-    "main.js": "./static/js/main.2cb08ce9.js",
+    "main.css": "./static/css/main.e106f999.css",
+    "main.js": "./static/js/main.93c3fd80.js",
     "static/media/Será Que Vale A Pena Oferecer Os Cartões Private Label Cartão De Marca Própria BrasilCard_.mp4": "./static/media/Será Que Vale A Pena Oferecer Os Cartões Private Label Cartão De Marca Própria BrasilCard_.9743faeef39200109695.mp4",
     "static/media/Como Aumentar as Vendas Com um Cartao de Marca Própria, Cartão Private Label Para Empresas.mp4": "./static/media/Como Aumentar as Vendas Com um Cartao de Marca Própria, Cartão Private Label Para Empresas.830bf425f1d8f98bab60.mp4",
+    "static/media/1.png": "./static/media/1.3798959c83e34a5fe271.png",
     "static/media/BRASIL CARD - O cartão sem complicação..mp4": "./static/media/BRASIL CARD - O cartão sem complicação..0c27e49598593fb4e1c7.mp4",
     "static/media/videoplayback.mp4": "./static/media/videoplayback.8c129776af13da47deb8.mp4",
-    "static/media/3.png": "./static/media/3.382e1a78c5900c003dbc.png",
+    "static/media/1(1).png": "./static/media/1(1).3491de680b4f6f7c1991.png",
     "static/media/cartão.png": "./static/media/cartão.2b38ca3359e2ce61d8b0.png",
     "static/media/2.png": "./static/media/2.89db4619c4a69ab43380.png",
-    "static/media/1.png": "./static/media/1.78212d13ebd550459125.png",
     "static/media/s7.jpg": "./static/media/s7.2c714315036b620dd832.jpg",
     "static/media/s9.jpg": "./static/media/s9.e645a001452bbf7ec22f.jpg",
     "static/media/s1.jpg": "./static/media/s1.127191f8bc732ed011c0.jpg",
@@ -21,14 +21,13 @@
     "static/media/s2.jpg": "./static/media/s2.823d0ea368ed6e512e59.jpg",
     "static/media/s3.jpg": "./static/media/s3.599c16d5e89e307a2e68.jpg",
     "static/media/s11.jpg": "./static/media/s11.0affd4667e25c0b1c476.jpg",
-    "static/media/s4.jpg": "./static/media/s4.a565b7cdda67e3185eb4.jpg",
-    "static/media/logo.png": "./static/media/logo.40fe2205d4d2b78a462a.png",
+    "static/media/logo.png": "./static/media/logo.11eadbdeb2b36535bd13.png",
     "index.html": "./index.html",
-    "main.c49578a9.css.map": "./static/css/main.c49578a9.css.map",
-    "main.2cb08ce9.js.map": "./static/js/main.2cb08ce9.js.map"
+    "main.e106f999.css.map": "./static/css/main.e106f999.css.map",
+    "main.93c3fd80.js.map": "./static/js/main.93c3fd80.js.map"
   },
   "entrypoints": [
-    "static/css/main.c49578a9.css",
-    "static/js/main.2cb08ce9.js"
+    "static/css/main.e106f999.css",
+    "static/js/main.93c3fd80.js"
   ]
 }
