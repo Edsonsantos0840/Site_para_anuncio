@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.e106f999.css",
-    "main.js": "./static/js/main.93c3fd80.js",
+    "main.css": "./static/css/main.042ff209.css",
+    "main.js": "./static/js/main.6ce076a7.js",
     "static/media/Será Que Vale A Pena Oferecer Os Cartões Private Label Cartão De Marca Própria BrasilCard_.mp4": "./static/media/Será Que Vale A Pena Oferecer Os Cartões Private Label Cartão De Marca Própria BrasilCard_.9743faeef39200109695.mp4",
     "static/media/Como Aumentar as Vendas Com um Cartao de Marca Própria, Cartão Private Label Para Empresas.mp4": "./static/media/Como Aumentar as Vendas Com um Cartao de Marca Própria, Cartão Private Label Para Empresas.830bf425f1d8f98bab60.mp4",
     "static/media/1.png": "./static/media/1.3798959c83e34a5fe271.png",
     "static/media/BRASIL CARD - O cartão sem complicação..mp4": "./static/media/BRASIL CARD - O cartão sem complicação..0c27e49598593fb4e1c7.mp4",
+    "static/media/1(1).png": "./static/media/1(1).ab495103755f499a3f0b.png",
     "static/media/videoplayback.mp4": "./static/media/videoplayback.8c129776af13da47deb8.mp4",
-    "static/media/1(1).png": "./static/media/1(1).3491de680b4f6f7c1991.png",
     "static/media/cartão.png": "./static/media/cartão.2b38ca3359e2ce61d8b0.png",
     "static/media/2.png": "./static/media/2.89db4619c4a69ab43380.png",
     "static/media/s7.jpg": "./static/media/s7.2c714315036b620dd832.jpg",
@@ -22,12 +22,22 @@
     "static/media/s3.jpg": "./static/media/s3.599c16d5e89e307a2e68.jpg",
     "static/media/s11.jpg": "./static/media/s11.0affd4667e25c0b1c476.jpg",
     "static/media/logo.png": "./static/media/logo.11eadbdeb2b36535bd13.png",
+    "static/media/r8.jpg": "./static/media/r8.279efe536ffd659f4435.jpg",
+    "static/media/r7.jpg": "./static/media/r7.22635dce0229a9633d54.jpg",
+    "static/media/r2.jpg": "./static/media/r2.3215566d2c8e9ab3f7ec.jpg",
+    "static/media/r5.jpg": "./static/media/r5.180245b422b3f0d1fd8f.jpg",
+    "static/media/r9.jpg": "./static/media/r9.a466b79f1ad68a10f6b9.jpg",
+    "static/media/r1.jpg": "./static/media/r1.3f9f0f5b035937457ed3.jpg",
+    "static/media/r11.jpg": "./static/media/r11.a7932cc3c0d16140167a.jpg",
+    "static/media/r6.jpg": "./static/media/r6.88041443ae284c11dae7.jpg",
+    "static/media/r10.jpg": "./static/media/r10.f5e701db6e370b37b147.jpg",
+    "static/media/r3.jpg": "./static/media/r3.1f0400313eb2af55a2d9.jpg",
     "index.html": "./index.html",
-    "main.e106f999.css.map": "./static/css/main.e106f999.css.map",
-    "main.93c3fd80.js.map": "./static/js/main.93c3fd80.js.map"
+    "main.042ff209.css.map": "./static/css/main.042ff209.css.map",
+    "main.6ce076a7.js.map": "./static/js/main.6ce076a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e106f999.css",
-    "static/js/main.93c3fd80.js"
+    "static/css/main.042ff209.css",
+    "static/js/main.6ce076a7.js"
   ]
 }
